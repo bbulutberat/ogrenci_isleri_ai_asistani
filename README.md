@@ -26,7 +26,6 @@
 | 🧠 **Yerel LLM**                 | Qwen 2.5 7B — Q4_K_M nicemleme; internet bağlantısı gerektirmez, veri gizliliği tam                                                         |
 | 📄 **PDF Bağlamı**               | Üniversite yönetmelikleri ve yönergelerinden otomatik vektör indeks oluşturma                                                               |
 | 💬 **SSS Tabanı**                | Önceden doğrulanmış soru-cevap çiftleri; tekrarlayan sorularda anlık yanıt                                                                  |
-| 🔁 **Konuşma Geçmişi**           | Oturum başına kalıcı JSON konuşma kaydı                                                                                                     |
 | ⚡ **Yeniden Sıralama**          | `SentenceTransformerRerank` ile bağlam hassasiyeti artırılmış retrieval                                                                     |
 | 🌐 **Modern Arayüz**             | React tabanlı, sohbet penceresine sahip duyarlı (responsive) web arayüzü                                                                    |
 | 🔒 **Tam Çevrimdışı**            | `HF_HUB_OFFLINE=1` — Çalışma zamanında hiçbir harici API çağrısı yapılmaz                                                                   |
