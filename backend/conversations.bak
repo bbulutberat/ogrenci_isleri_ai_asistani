@@ -1,0 +1,42 @@
+{
+  "327b0148-82cd-459f-abb3-306b5da06fbd": {
+    "id": "327b0148-82cd-459f-abb3-306b5da06fbd",
+    "title": "Çift anadal için ortalamam kaç olmalı?",
+    "created_at": "2026-05-09T17:45:59.155804",
+    "updated_at": "2026-05-09T17:46:44.429371",
+    "messages": [
+      {
+        "id": "d3275ca4-d1e3-4ab3-8c2d-44e4d60d24e1",
+        "role": "user",
+        "content": "Çift anadal için ortalamam kaç olmalı?",
+        "timestamp": "2026-05-09T17:46:25.823858"
+      },
+      {
+        "id": "1d6ab531-3699-4daf-8049-6fc264a28d83",
+        "role": "assistant",
+        "content": "Anadaldaki genel not ortalamasının en az 4 üzerinden 2,75 olması ve sınıfın başarı sıralamasında en üst %20'de bulunulması gerekir.",
+        "sources": [
+          {
+            "yol": "SSS_DIRECT",
+            "skor": 0.915,
+            "kategori": "ek_program",
+            "eslesilen_soru": "Çift anadal programına başvurabilmek için akademik ortalamam kaç olmalı?"
+          }
+        ],
+        "elapsed": 0.24,
+        "timestamp": "2026-05-09T17:46:25.823858"
+      },
+      {
+        "id": "09a45d9f-b275-48bf-9767-c6035273ae2e",
+        "role": "user",
+        "content": "kısmi zamanlı işe nasıl başvururum",
+        "timestamp": "2026-05-09T17:46:44.429371"
+      },
+      {
+        "id": "fd7f832c-d48f-418e-8f9a-16b4ccbc0a44",
+        "role": "assistant",
+        "content": "Başvurularınızı Pamukkale Üniversitesi'nin resmi web sitesinden (www.pau.edu.tr) İş Başvuru Formu doldurarak ve Sağlık, Kültür ve Spor Daire Başkanlığı'na yaparak yapabilirsiniz. Başvuru ilanları genellikle birimler tarafından yapılır; gerekli ise özel dönemlerde de münferit olarak yapılabilecektir. Bu ilanlara dikkat ettiğinizde başvuru formu, kriterleri ve süresi hakkında bilgi edinebilirsiniz.",
+        "sources": [
+          {
+            "dosya": "kısmi zamanlı öğrenci çalıştırma ve yemek bursu verilmesi esasları hakkında yönerge.pdf",
+            "skor": 

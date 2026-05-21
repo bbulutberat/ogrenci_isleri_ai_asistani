@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.gguf
+qwen7b-pau-Q4_K_M.gguf
+pau_rag_db_v2/
+pau_sss_rag_db/
+pdf_dosyalari/
+.env

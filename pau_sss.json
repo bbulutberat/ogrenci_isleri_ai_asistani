@@ -1,0 +1,467 @@
+[
+  {
+    "kategori": "kayit",
+    "soru": "Üniversitenize YKS/YKS Ek Yerleştirme/Dikey Geçiş/Lisans Tamamlama ile kayıt hakkı kazandım. Kayıt tarihleri ve kayıtta getirmem gereken belgeler nelerdir?",
+    "cevap": "Üniversitemiz akademik birimlerine yerleştirilenlerin kayıt tarihleri, yerleri ve kayıt için istenen belge ve bilgiler ile işlem süreçleri Üniversitemiz internet sayfasındaki duyurulardan öğrenilebilir."
+  },
+  {
+    "kategori": "kayit",
+    "soru": "YKS ile yerleştim. e-Devletten Üniversitenize kayıt yaptırdım. Herhangi bir evrak getirmeme gerek var mı?",
+    "cevap": "e-Devletten kayıt yapan bir öğrencinin herhangi bir belge getirmesine gerek yoktur (Tıp Fakültesi öğrencileri hariç). e-Devletten kayıt yapan öğrencinin kayıt yaptığına dair e-Devletten çıktı alması yararına olacaktır."
+  },
+  {
+    "kategori": "kayit",
+    "soru": "Yeni kayıt işlemlerini şahsen yapmak zorunda mıyım?",
+    "cevap": "Kesin kaydını e-Devlet üzerinden yapan öğrencilerin şahsen başvuru yapmaları gerekmemektedir (Tıp Fakültesi hariç). e-Devletten kayıt yapamayan öğrencilerin, kayıt için istenen belgelerle birlikte belirlenen kayıt tarihlerinde şahsen veya kanuni temsilcisi/vekil tayin edilen kişi aracılığıyla başvuru yapmaları gerekmektedir."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme (ders kayıt) ne demektir?",
+    "cevap": "Kayıt yenileme (ders kayıt), Üniversitemiz bünyesinde yürütülen önlisans, lisans ve lisansüstü programlara kayıtlı öğrencilerin, akademik takvimde belirtilen süreler içinde (katkı payı/öğrenim ücreti ödemesi gerekenlerin ödeme yapması şartıyla) ders alma işlemini tamamlaması suretiyle gerçekleşen işlemdir."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme (ders kayıt) işlemleri hangi tarihlerde yapılıyor?",
+    "cevap": "Kayıt yenileme işlemleri her yarıyılın başlamasından önce akademik takvimde belirtilen tarihlerde yapılır ve Üniversitemiz internet sayfasında duyurulur."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme (ders kayıt) işlemlerimi okula gelmeden yapabilir miyim?",
+    "cevap": "Evet, kayıt yenileme işlemlerini okula gelmeden Pusula Bilgi Sistemi > Öğrenci Bilgi Sistemi üzerinden kullanıcı adınız ve şifrenizle yapabilirsiniz."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme (ders kayıt) işlemlerinde sorumluluk kime aittir?",
+    "cevap": "Kayıt yenileme işlemlerinin tamamından öğrenci sorumludur."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Güz veya bahar yarıyıllarından birinde kayıt yenileme yaptırmayan bir öğrenci, bir sonraki yarıyıl ders kaydı yaptırabilir mi?",
+    "cevap": "Evet, güz veya bahar yarıyıllarından birinde veya her ikisinde kayıt yenileme yaptırmayan bir öğrenci, bir sonraki yarıyıl ders kaydı yaptırabilir."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme işlemi sadece harç yatırmaktan mı ibarettir?",
+    "cevap": "Hayır. Kayıt yenileme işlemi, ödeme istisnası olanlar hariç katkı payı/öğrenim ücretini ilgili bankaya yatırmak ve sistemden ders kaydı yapmaktır. Ayrıca ekle-sil-onayla haftasında danışman hocayla kayıt olunan dersleri son kez kontrol edip onay vermek gerekir."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme işleminde dersler arasında öncelik var mıdır?",
+    "cevap": "Evet, ders seçiminde şu sıralama uygulanır: önceki yarıyıllardan başarısız olunan dersler, önceki yarıyıllardan alınmamış dersler, mevcut yarıyıldan başarısız olunan dersler, mevcut yarıyıldan alınmamış dersler, üst yarıyıllardan başarısız olunan dersler ve üst yarıyıllardan alınmamış dersler."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme işlemi tarihlerini kaçırırsam ne olur?",
+    "cevap": "Akademik takvimde belirtilen tarihler içinde kayıt yenileme işlemini yapmayan öğrenci, o yarıyıldaki derslere devam edemez, sınavlara giremez ve diğer öğrencilik haklarından yararlanamaz."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme işlemi yapamayan öğrenci mazeretli kayıt hakkını kaç defa kullanabilir?",
+    "cevap": "Mazereti ilgili yönetim kurulunca kabul edilen öğrenciler, kayıt yenileme işlemini ekle-sil-onayla tarihlerinde yaptırabilir. Mazeretli kayıt yenileme işlemi eğitim-öğretim süresi içinde en fazla iki defa yapılabilir. Başvuru Pusula Bilgi Sistemi üzerinden ekle-sil-onayla tarihlerinin ilk üç iş günü içinde yapılmalıdır."
+  },
+  {
+    "kategori": "ders_kayit",
+    "soru": "Kayıt yenileme işlemini yapmazsam kaydım silinir mi?",
+    "cevap": "Hayır, kaydınız silinmez. Ancak kayıt yenileme yapmadığınız sürede öğrencilik haklarından faydalanamazsınız ve kayıt yenilemediğiniz yarıyıl öğrenim sürenizden sayılır."
+  },
+  {
+    "kategori": "harc",
+    "soru": "Ödemem gereken öğrenci katkı payı miktarını nasıl öğrenebilirim?",
+    "cevap": "Dönemlik öğrenci katkı payı/öğrenim ücreti güncel bilgileri kayıt yenileme işlemleri başlamadan önce Üniversitemiz internet sitesinde yayımlanmaktadır."
+  },
+  {
+    "kategori": "harc",
+    "soru": "Katkı payı/öğrenim ücreti hakkında bilgiyi nereden alabilirim?",
+    "cevap": "Öğrenci İşleri Daire Başkanlığındaki Harçlar Biriminden bilgi alabilirsiniz."
+  },
+  {
+    "kategori": "harc",
+    "soru": "Kimler katkı payı/öğrenim ücreti öder?",
+    "cevap": "Mühendislik, ilahiyat ve sağlık alanında lisans tamamlama birinci öğretim öğrencileri program süreleri gözetilmeden ücret öder. Yabancı uyruklu öğrenciler, normal süreyi aşan İME öğrencileri, üç ders sınavına girecek öğrenciler ve YÖK tarafından gönderilen denklik öğrencileri de ücret ödemekle yükümlüdür."
+  },
+  {
+    "kategori": "harc",
+    "soru": "Katkı payını bankaya yatırırken hesap numarası verecek miyim, hangi bankalardan ödeme yapabilirim?",
+    "cevap": "Hesap numarası belirtmenize gerek yoktur. Ödemeler yalnızca öğrenci numarası ile yapılır. Halk Bankası şubelerinden, ATM'lerde kartsız işlem seçeneğiyle veya Halk Bankası internet bankacılığı üzerinden ödeme yapabilirsiniz."
+  },
+  {
+    "kategori": "harc",
+    "soru": "İkinci öğretim öğrencisiyim. %10'luk dilime girip girmediğimi nereden öğrenebilirim?",
+    "cevap": "%10'luk dilime girip girmediğinizi ilgili akademik biriminizden öğrenebilirsiniz. Belgeyi de aynı birimden alabilirsiniz (o döneme ait bütün notların girilmiş olması gerekir)."
+  },
+  {
+    "kategori": "harc",
+    "soru": "Katkı payı iademi nasıl ve ne zaman alabilirim?",
+    "cevap": "Harç ücreti iadesi için Rektörlük Öğrenci İşleri Daire Başkanlığına şahsen veya oid@pau.edu.tr adresine dilekçeyle başvurmanız gerekir. Harç iadeleri güz ve bahar dönemi olmak üzere iki defa yapılabilir."
+  },
+  {
+    "kategori": "harc",
+    "soru": "Katkı payımı hangi durumlarda iade alabilirim?",
+    "cevap": "Katkı payı ödedikten sonra ders kaydı yapmamışsanız, kapatılan tezsiz yüksek lisans veya yaz okulu derslerine kayıt yaptırdıysanız ya da yaz okulunda açılan bir derse ücret ödeyip kayıt yaptırmadıysanız iade alabilirsiniz."
+  },
+  {
+    "kategori": "harc",
+    "soru": "Hangi durumlarda katkı payı iade edilmez?",
+    "cevap": "Ders kaydı yaptıktan sonra kaydını sildiren, sahte evrakla kayıt yaptıran, askerlik/sağlık nedeniyle izinli olan, azami süresi dolmuş, yatay geçişle gelip kaydını sildiren, üç ders sınavına giren ve yaz okulunda derse kayıtlı öğrencilerin ücreti iade edilmez."
+  },
+  {
+    "kategori": "burs",
+    "soru": "Burslar hakkında bilgi alabileceğimiz bir ofis var mı?",
+    "cevap": "Öğrenci İşleri Daire Başkanlığı Burs Ofisi'nden bilgi alabilirsiniz."
+  },
+  {
+    "kategori": "burs",
+    "soru": "KYK Bursu almak istiyorum. Ne yapmam gerekiyor?",
+    "cevap": "KYK burs işlemlerini Kredi ve Yurtlar Kurumunun internet sayfasından takip edebilirsiniz."
+  },
+  {
+    "kategori": "akademik_takvim",
+    "soru": "Akademik takvime nereden ulaşabilirim?",
+    "cevap": "Akademik takvime https://www.pau.edu.tr/oidb/tr/sayfa/akademik-takvim-3 bağlantı adresinden ulaşabilirsiniz."
+  },
+  {
+    "kategori": "akademik_takvim",
+    "soru": "Önümüzdeki yılın akademik takvimi ne zaman belli olacak?",
+    "cevap": "Yeni eğitim-öğretim yılının akademik takvimi ağustos ayı başında kesinleşmektedir."
+  },
+  {
+    "kategori": "gecis",
+    "soru": "Yatay geçiş hakkında bilgi verir misiniz?",
+    "cevap": "Yatay geçişler her eğitim-öğretim yılının başında (önlisans ve lisans) ve ortasında (sadece önlisans) yapılır. Detaylı duyurular Üniversitemiz internet sayfasında yayımlanır. Mevzuata https://www.pau.edu.tr/pau/tr/mevzuat adresinden ulaşabilirsiniz."
+  },
+  {
+    "kategori": "gecis",
+    "soru": "Üniversitenize yatay geçiş koşullarını ve gerekli belgeleri nasıl öğrenebilirim?",
+    "cevap": "Yatay geçişle ilgili koşulları, gerekli belgeleri ve başvuru zamanını Üniversitemiz internet sayfasının duyurular kısmından takip edebilirsiniz."
+  },
+  {
+    "kategori": "gecis",
+    "soru": "Üniversitenize nasıl dikey geçiş yapabilirim?",
+    "cevap": "Önlisans programından mezun olduktan sonra her yıl ÖSYM tarafından temmuz ayında yapılan DGS'ye girip Üniversitemizi tercih ederek yerleşmeniz gerekmektedir."
+  },
+  {
+    "kategori": "gecis",
+    "soru": "Yatay/dikey geçişle gelen öğrencilerin intibakları nasıl yapılır?",
+    "cevap": "Kayıt yaptırdıktan sonra duyurularda belirtilen tarihlerde PUSULA Bilgi Sisteminden muafiyet başvurusunda bulunulur. Daha önce alınan eşdeğer dersler belirtilir ve ilgili yönetim kurulu kararıyla muaf olunabilir."
+  },
+  {
+    "kategori": "ozel_ogrenci",
+    "soru": "Özel öğrencilik hakkında bilgi almak istiyorum?",
+    "cevap": "Özel öğrenci, kendi üniversitesinde kayıtlı kalmak şartıyla farklı bir yükseköğretim kurumunda eğitime devam etme imkânı tanınan öğrencidir. Detaylı mevzuata https://www.pau.edu.tr/pau/tr/mevzuat adresinden ulaşabilirsiniz."
+  },
+  {
+    "kategori": "ozel_ogrenci",
+    "soru": "Üniversiteyi bu sene kazandım. Üniversitenizde özel öğrenci olabilir miyim?",
+    "cevap": "Hayır, doğrudan olamazsınız. Önlisansta en az bir yarıyıl, lisansta en az iki yarıyıl tamamlamak gerekir. Sağlık nedeni varsa bu süre koşulu aranmaz. Başvurular akademik takvimdeki son tarihe kadar yapılır."
+  },
+  {
+    "kategori": "ozel_ogrenci",
+    "soru": "Özel öğrenci olarak ne kadar süre Üniversitenizde eğitim görebilirim?",
+    "cevap": "Özel öğrencilikten bir program süresince en fazla iki dönem yararlanılır. Bu süre, ciddi sağlık sorunu veya darp/şiddet gibi durumlarda Yükseköğretim Kurulu kararıyla uzatılabilir."
+  },
+  {
+    "kategori": "uluslararasi",
+    "soru": "Değişim programları hakkında nereden bilgi alabiliriz?",
+    "cevap": "Yurtiçi değişim için Farabi Koordinatörlüğünden veya https://www.pau.edu.tr/farabi adresinden, yurtdışı değişim için Uluslararası İlişkiler Koordinatörlüğünden veya https://www.pau.edu.tr/uluslararasi adresinden bilgi alabilirsiniz."
+  },
+  {
+    "kategori": "uluslararasi",
+    "soru": "Yurt dışı/yabancı uyruklu öğrencilerin Üniversitenize kabul edilme süreci hakkında nereden bilgi alabilirim?",
+    "cevap": "Yurtdışı Öğrenci Koordinatörlüğümüzden veya https://www.pau.edu.tr/yurtdisi adresinden bilgi alabilirsiniz."
+  },
+  {
+    "kategori": "ders",
+    "soru": "1. sınıf öğrencisiyim, kayıt yenileme yapmalı mıyım?",
+    "cevap": "Evet, Üniversitemize kesin kayıt yaptırdıktan sonraki kayıt yenileme dönemleri içinde her yarıyıl için ders kaydı yapmalısınız."
+  },
+  {
+    "kategori": "ders",
+    "soru": "En az kaç kredilik ders alabilirim?",
+    "cevap": "Öğrencilerimiz kayıtlı olduğu her yarıyılda en az 20 kredilik ders almak zorundadır. Mezuniyet durumunda ve değişim programlarına katılan öğrencilerde bu koşul aranmaz."
+  },
+  {
+    "kategori": "ders",
+    "soru": "En fazla kaç kredilik ders alabilirim?",
+    "cevap": "Akademik ortalamaya göre değişir: 2,25 ve altı için 30 kredi, 2,26-2,99 arası için 36 kredi, 3,00 ve üzeri için 42 kredi. Mezuniyet aşamasında bir defaya mahsus iki ders ilavesi yönetim kurulu kararıyla verilebilir."
+  },
+  {
+    "kategori": "ders",
+    "soru": "Derslere devam zorunluluğu var mı?",
+    "cevap": "Evet, öğrenciler derslere katılmak zorundadır. Devam sınırları teorik derslerde %60-80, uygulamalı derslerde %70-90 aralığında olacak şekilde fakülte/yüksekokul kurullarınca belirlenir."
+  },
+  {
+    "kategori": "ders",
+    "soru": "Devamsızlık nedeniyle kalan öğrenci dönem sonu ve bütünleme sınavlarına katılabilir mi?",
+    "cevap": "Hayır, devamsızlık nedeniyle kalan öğrenci ilgili derse ait dönem sonu ve bütünleme sınavına katılamaz. Yaz okulunda alınan dersler için bütünleme sınavı uygulaması yoktur."
+  },
+  {
+    "kategori": "ders",
+    "soru": "Devamsızlıktan kalan öğrenci o dersi yaz okulunda alabilir mi?",
+    "cevap": "Evet, devamsızlık nedeniyle kalan öğrenci o dersi yaz okulunda alabilir."
+  },
+  {
+    "kategori": "muafiyet",
+    "soru": "Yeni kayıt yaptıran öğrenciler daha önce başarılı olduğu derslerden muaf olabilir mi?",
+    "cevap": "Evet, kayıt yaptırdıktan sonra duyurularda belirtilen tarihlerde PUSULA Bilgi Sisteminden muafiyet başvurusunda bulunulur. Daha önce alınan eşdeğer dersler belirtilir ve ilgili yönetim kurulu kararıyla muaf olunabilir."
+  },
+  {
+    "kategori": "ders",
+    "soru": "Daha önce aldığım dersleri tekrar edebilir miyim?",
+    "cevap": "Geçer not alınan bir ders tekrar alınmaz."
+  },
+  {
+    "kategori": "sinav",
+    "soru": "Hangi sınavların mazereti vardır, hangilerinin yoktur?",
+    "cevap": "Mazereti kabul edilen öğrenciye ara ve/veya dönem sonu sınavları için mazeret sınav hakkı verilir. Bütünleme sınavları için mazeret sınav hakkı verilmez."
+  },
+  {
+    "kategori": "sinav",
+    "soru": "Üç ders sınavı hakkında bilgi verir misiniz?",
+    "cevap": "Üç ders sınavına; mezuniyet için ortalamayı sağladığı halde en fazla üç dersi kalan, üç dersi kalıp sınav sonrası ortalamayı sağlayabilecek olan veya geçer not aldığı halde ortalamayı sağlayamayan öğrenciler başvurabilir. Sınav hakkı aynı dönemde kullanılır ve daha önce yararlanmış olanlara tekrar verilmez."
+  },
+  {
+    "kategori": "sinav",
+    "soru": "Bütünleme sınavı nedir? Kimler yararlanabilir?",
+    "cevap": "Bütünleme sınavı, başarısız olunan veya koşullu geçilen dersler için yarıyıl sonu sınavlarından sonra yapılan sınavdır. Devamsızlık nedeniyle başarısız olunan ve yaz okulu dersleri için bütünleme hakkı verilmez."
+  },
+  {
+    "kategori": "iliski_kesme",
+    "soru": "Kendi isteğimle nasıl kaydımı sildirebilirim?",
+    "cevap": "Kendi isteğiyle kayıt silme, PUSULA Bilgi Sistemi üzerinden veya Öğrenci İşleri Daire Başkanlığına yazılı başvuruyla yapılır. Üniversiteden ayrılan öğrencinin tüm öğrencilik hakları sona erer ve geri dönmek isterse yeni başvuran öğrencilerle aynı işleme tabi tutulur."
+  },
+  {
+    "kategori": "kayit_dondurma",
+    "soru": "Kayıt dondurma işlemini nasıl ve hangi durumlarda yapabilirim?",
+    "cevap": "Yönetmelikte belirtilen nedenlerle (sağlık, doğal afet, askerlik vb.) belgelendirmek koşuluyla ve yönetim kurulunun mazeret olarak değerlendireceği diğer nedenlerle başvurulabilir. Gerekçeleri ve kanıtlayıcı belgeleri içeren bir dilekçe ile bölüm başkanlığına başvurmak gerekir."
+  },
+  {
+    "kategori": "sinav",
+    "soru": "Ara sınav programı ne zaman duyurulur?",
+    "cevap": "Önlisans ve lisans öğrencilerinin tüm derslerinin ara sınav tarihleri ilgili akademik birim tarafından internet sitesi üzerinden duyurulur."
+  },
+  {
+    "kategori": "sinav",
+    "soru": "Dönem sonu (final) sınav programı ne zaman duyurulur?",
+    "cevap": "Final sınavları akademik takvimde belirtilen tarihlerde gerçekleştirilir. Sınav programı ilgili akademik birim tarafından internet sitesi üzerinden duyurulur."
+  },
+  {
+    "kategori": "ders",
+    "soru": "Ders programları ne zaman duyurulur?",
+    "cevap": "Önlisans ve lisans öğrencileri ders programlarını kayıt yenileme işleminden sonra Pusula Bilgi Sistemi üzerinde öğrenebilirler."
+  },
+  {
+    "kategori": "azami_sure",
+    "soru": "Üniversitenizde azami öğrenim süresi ne kadardır?",
+    "cevap": "Azami öğrenim süresi 2 yıllık önlisans için 4 yıl, 4 yıllık lisans için 7 yıl, 5 yıllık lisans için 8 yıl ve 6 yıllık lisans için 9 yıldır."
+  },
+  {
+    "kategori": "ogrenci_destek",
+    "soru": "Öğrenim hayatımda akademik, psikososyal ve sosyoekonomik destek alabilir miyim?",
+    "cevap": "Evet, Öğrenci Destek Birimi öğrencilerimize öğrenim hayatları süresince akademik, psikososyal ve sosyoekonomik konularda destek sağlamaktadır."
+  },
+  {
+    "kategori": "ogrenci_destek",
+    "soru": "Öğrenci Destek Biriminden nasıl destek alabilirim?",
+    "cevap": "Tüm akademik birimlerimizde Öğrenci Destek Birimi Komisyonu oluşturulmuştur. Bu komisyonlara başvurarak destek talebinde bulunabilirsiniz."
+  },
+  {
+    "kategori": "ogrenci_destek",
+    "soru": "Öğrenci Destek Birimi Komisyonu ile ilgili bilgilere nereden ulaşabilirim?",
+    "cevap": "İlgili akademik birimin kendi Öğrenci Destek Birimi Komisyonundan, resmi web sitesinden veya https://www.pau.edu.tr/ogrencidestek/tr adresinden bilgi alabilirsiniz."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz Okulu Akademik Takvimi ne zaman belirlenir?",
+    "cevap": "Yaz okulu takvimi, akademik takvimde belirtilir."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulunda kaç kredilik ders alabilirim?",
+    "cevap": "Yaz okulunda bir öğrenci haftada toplam otuz saati geçmemek koşuluyla en fazla dört derse kayıt yaptırabilir."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulunda devam zorunluluğu var mıdır?",
+    "cevap": "Evet, yaz okulunda derslere devam zorunludur. Teorik derslerde %70, uygulama derslerinde %80 devam aranır. Devam şartını sağlamayan öğrenci final sınavına giremez."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulu süresi ne kadardır?",
+    "cevap": "Yaz okulu süresi her yıl Senato tarafından belirlenir ve akademik takvimde belirtilir. Final sınav günleri bu süreye dahil değildir."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulunda hangi dersler açılacak?",
+    "cevap": "Yaz okulunda açılacak dersler; tercihen dersi vermiş öğretim elemanının isteği, ilgili bölümün teklifi ve yönetim kurulu kararı ile belirlenir."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulunda üst yarıyıldan ders alabilir miyim?",
+    "cevap": "Evet, öğrenciler yaz okulunda üst yarıyıllardan da ders alabilirler."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulunda açılan dersi yeteri kadar öğrenci almaz ise ders kapanır mı?",
+    "cevap": "Evet, bir dersin yaz okulunda açılabilmesi için en az yirmi öğrencinin kayıt yaptırması şartı aranır."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulunda farklı bir üniversiteden ders alabilir miyim?",
+    "cevap": "Evet, ancak başvurunun yaz okulu ders başlangıcından önce bölüm başkanlığına yapılması ve bölüm/program kurulları önerisi ve yönetim kurulu kararıyla onaylanması gerekir."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Üniversitede farklı bir programdan ders alabilir miyim?",
+    "cevap": "Evet, ancak alınacak dersin içerik, kredi ve saat ölçütlerinin kayıtlı olduğunuz birimin yönetim kurulu tarafından önceden kabul edilmesi gerekir."
+  },
+  {
+    "kategori": "yaz_okulu",
+    "soru": "Yaz okulunda ücret iadesi yapılır mı?",
+    "cevap": "Yaz okulunda açılmayan ya da kayıtlı öğrenci sayısının yetersizliği nedeniyle kapatılan derslerin ücretleri öğrencilere iade edilir."
+  },
+  {
+    "kategori": "belge",
+    "soru": "Öğrenci belgesi ve not durum çizelgesini nasıl alabilirim?",
+    "cevap": "E-Devlet üzerinden öğrenci belgesi ve not durum çizelgenizi alabilirsiniz. E-Devletten alınan belgeler için imza ve mühre gerek yoktur. Ayrıca akademik biriminizin öğrenci işlerinden de alabilirsiniz."
+  },
+  {
+    "kategori": "belge",
+    "soru": "Almış olduğum derslerin içeriğini nasıl temin edebilirim?",
+    "cevap": "https://ebs.pusula.pau.edu.tr/BilgiGoster/DereceProgram.aspx?Ing=1 bağlantı adresinden Üniversitemizde almış olduğunuz derslerin içeriklerine ulaşabilirsiniz."
+  },
+  {
+    "kategori": "belge",
+    "soru": "Disiplin durumunu gösterir belgeyi nasıl alabilirim?",
+    "cevap": "Öğrencilerin disiplin durumları not durum çizelgelerinde yer almaktadır. Disiplin durumu için ayrıca bir belge düzenlenmemektedir."
+  },
+  {
+    "kategori": "kimlik",
+    "soru": "Öğrenci kimliği almak için ne yapmalıyım?",
+    "cevap": "Üniversitemize kayıt yaptıran tüm öğrenciler, öğrenci kimlik kartını akademik birimlerinden teslim alabilirler."
+  },
+  {
+    "kategori": "kimlik",
+    "soru": "Üniversiteye ilk kez kayıt yaptırdığında verilen öğrenci kimlik kartı bütün öğrenim süresince geçerli midir?",
+    "cevap": "Öğrenci kimlik kartınızı öğrenim süreniz boyunca değiştirmeden kullanabilirsiniz. Ancak her eğitim-öğretim yılı başında bir yıl geçerli olan bandrolü ilgili akademik birimden temin etmeniz gerekir."
+  },
+  {
+    "kategori": "kimlik",
+    "soru": "Öğrenci kimlik kartı ne işe yarar?",
+    "cevap": "Öğrenci kimlik kartları merkezi kütüphaneye giriş, kitap ödünç alma, üniversite birimlerine giriş için kullanılır. Tanımlama yapılarak Denizli Büyükşehir Belediyesi toplu taşıma kartı olarak da kullanılabilir."
+  },
+  {
+    "kategori": "kimlik",
+    "soru": "Öğrenci kimliğimi kaybettim, ne yapmam gerekir?",
+    "cevap": "Pusula Bilgi Sistemi üzerinden Öğrenci Kartı İstek Belgesi oluşturmanız ve Halk Bankası 1463 Şube 06000258 numaralı hesaba 100 TL yatırmanız gerekir. Belge ve dekontla Öğrenci İşleri Daire Başkanlığına başvurabilirsiniz."
+  },
+  {
+    "kategori": "kisisel_bilgi",
+    "soru": "İsim/soyisim değişikliğim oldu, ne yapmam gerekiyor?",
+    "cevap": "Bu tür değişikliklerde Rektörlük Öğrenci İşleri Daire Başkanlığına başvurmanız gerekmektedir."
+  },
+  {
+    "kategori": "kisisel_bilgi",
+    "soru": "Adres ve/veya telefon bilgilerim değişirse ne yapmalıyım?",
+    "cevap": "Pusula Bilgi Sistemine giriş yaparak değişiklikleri kendiniz yapabilirsiniz."
+  },
+  {
+    "kategori": "sifre",
+    "soru": "Öğrenci şifremi unuttum, ne yapmalıyım?",
+    "cevap": "Pusula Bilgi Sistemi giriş ekranındaki 'şifrenizi mi unuttunuz?' bağlantısını kullanarak şifrenizi sıfırlayabilirsiniz. Ayrıca 'e-Devlet ile giriş' seçeneğiyle de yeni bir şifre oluşturabilirsiniz."
+  },
+  {
+    "kategori": "internet",
+    "soru": "Üniversitenizde kablosuz internet ağına nasıl bağlanabilirim?",
+    "cevap": "https://www.pau.edu.tr/eduroam/tr adresinden gerekli bilgileri alabilirsiniz."
+  },
+  {
+    "kategori": "diploma",
+    "soru": "Mezun oldum, diplomamı nasıl alabilirim?",
+    "cevap": "Pusula Bilgi Sistemi üzerinden mezuniyet ilişik kesme işlemini tamamladıktan sonra mezun anketini doldurup ilgili akademik birime başvurarak (kimlik ibrazıyla) diplomanızı teslim alabilirsiniz. 2017 Haziran öncesi mezunlar Rektörlük Öğrenci İşleri Daire Başkanlığına başvurmalıdır."
+  },
+  {
+    "kategori": "diploma",
+    "soru": "Diplomamı kaybettim, ikinci nüsha diplomamı nasıl alabilirim?",
+    "cevap": "Kayıp durumunda gazete kayıp ilanı, tahrip durumunda eski belge ile birlikte ikinci nüsha başvuru dilekçesi ve belirlenen ücretin yatırıldığını gösteren dekontla Rektörlük Öğrenci İşleri Daire Başkanlığına başvurmanız gerekir."
+  },
+  {
+    "kategori": "diploma",
+    "soru": "Üniversiteye kayıt sırasında verdiğim lise diplomamı nasıl alabilirim?",
+    "cevap": "Lise diplomanızı kimlik ibraz ederek Üniversitemiz Rektörlük Öğrenci İşleri Daire Başkanlığından şahsen veya noter onaylı vekâletle teslim alabilirsiniz."
+  },
+  {
+    "kategori": "diploma",
+    "soru": "Diploma Eki'mi nasıl alabilirim?",
+    "cevap": "Diplomanızla birlikte Diploma Ekiniz teslim edilmektedir."
+  },
+  {
+    "kategori": "mevzuat",
+    "soru": "Yönetmelik ve yönergelere nereden erişebilirim?",
+    "cevap": "Üniversitemizin internet sitesi mevzuat sayfasından (https://www.pau.edu.tr/pau/tr/mevzuat) güncel yönetmelik ve yönergelere ulaşabilirsiniz."
+  },
+  {
+    "kategori": "mevzuat",
+    "soru": "Yönetmelik ve yönergelerde takıldığım hususları kime sormam gerekiyor?",
+    "cevap": "Öncelikle danışmanınıza, ilgili akademik birimin bölüm sekreterliğine veya birim öğrenci işlerindeki yetkililere başvurabilirsiniz."
+  },
+  {
+    "kategori": "mevzuat",
+    "soru": "Lisansüstü yönetmelik hükümleri konusunda nereden bilgi alabilirim?",
+    "cevap": "Öncelikle danışmanınızdan veya ilgili enstitü öğrenci işleri biriminden bilgi alabilirsiniz."
+  },
+  {
+    "kategori": "af",
+    "soru": "Af kapsamında nasıl müracaat edebilirim?",
+    "cevap": "Çıkan affın kapsamına göre müracaat tarihleri ve istenen belgeler Üniversitemizin internet sitesinde ilan edilmektedir."
+  },
+  {
+    "kategori": "hazirlik",
+    "soru": "Hazırlık sınıfı hakkında bilgiyi nereden alabilirim?",
+    "cevap": "PAÜ Yabancı Diller Yüksekokulundan bilgi alabilirsiniz."
+  },
+  {
+    "kategori": "ek_program",
+    "soru": "Çift anadal ve yandal hakkında bilgi alabilir miyim?",
+    "cevap": "Yandal programı, sınırlı sayıda dersi alarak diploma yerine geçmeyen sertifika alınmasını sağlar. Çift anadal programı ise iki diploma programından eş zamanlı ders alıp iki ayrı diploma almayı sağlayan programdır."
+  },
+  {
+    "kategori": "ek_program",
+    "soru": "Çift anadal programına ne zaman başvuru yapabilirim?",
+    "cevap": "Lisans programlarında en erken 3. yarıyıl başında, en geç 4 yıllıkta 5., 5 yıllıkta 7., 6 yıllıkta 9. yarıyıl başında başvurulur. Önlisansta en erken 2., en geç 3. yarıyıl başında. Tarihler için akademik takvime bakınız."
+  },
+  {
+    "kategori": "ek_program",
+    "soru": "Çift anadal programına başvurabilmek için akademik ortalamam kaç olmalı?",
+    "cevap": "Anadaldaki genel not ortalamasının en az 4 üzerinden 2,75 olması ve sınıfın başarı sıralamasında en üst %20'de bulunulması gerekir."
+  },
+  {
+    "kategori": "ek_program",
+    "soru": "Yandal programına ne zaman başvuru yapabilirim?",
+    "cevap": "Anadal lisans programının en erken 3., en geç 6. yarıyılı başında başvurulur. Tarihler için akademik takvime bakınız."
+  },
+  {
+    "kategori": "ek_program",
+    "soru": "Yandal programına başvurmak için akademik ortalamam kaç olmalı?",
+    "cevap": "Anadaldaki akademik not ortalamasının 4 üzerinden en az 2,75 olması gerekir."
+  },
+  {
+    "kategori": "staj",
+    "soru": "Alanımda staj yapmak için nereden izin almalıyım?",
+    "cevap": "İlgili akademik birimde bulunan staj komisyonlarından izin almanız gerekmektedir."
+  },
+  {
+    "kategori": "mufredat",
+    "soru": "Müfredat ile ilgili sorunlarımızı nereden çözebiliriz?",
+    "cevap": "İlgili bölüm sekreterliği veya akademik biriminize başvurarak çözebilirsiniz."
+  },
+  {
+    "kategori": "danismanlik",
+    "soru": "Danışman hocama ve ders hocama nasıl ulaşabilirim?",
+    "cevap": "İlgili akademik birimdeki bölüm sekreterliğine veya birim yetkililerine sorarak ulaşabilirsiniz."
+  },
+  {
+    "kategori": "pasaport",
+    "soru": "Harçsız pasaport almak için ne yapmam gerekiyor?",
+    "cevap": "Bilimsel, sosyal, kültürel ve spor etkinliklere katılmak veya eğitim amacıyla yurtdışına çıkış yapacak öğrenciler için harçsız pasaport evrakı düzenlenir. Başvuru dilekçesi ve kabul mektubu eklenerek Öğrenci İşleri Daire Başkanlığına teslim edilir."
+  }
+]
